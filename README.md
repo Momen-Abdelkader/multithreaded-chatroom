@@ -1,4 +1,4 @@
-# Multithreaded Chatroom
+# Multithreaded Chat Server and Client in Java
 
 ## Contents
 
@@ -6,7 +6,7 @@
 - [Class Diagram](#class-diagram)
 - [How to Run](#how-to-run)
 - [Commands](#commands)
-- [Troubleshooting](#troubleshooting)
+- [Troubleshooting](#troubleshooting) 
 
 ## Overview
 
